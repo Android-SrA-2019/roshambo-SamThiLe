@@ -1,6 +1,10 @@
 package com.example.roshambo
 
-
+/**
+ * @author Sam Thibodeau
+ * @date 2019-03-11
+ * @description Asn 2 converted to kotlin
+ */
 import java.util.Random
 
 class Rochambo {

@@ -9,7 +9,11 @@ import android.animation.AnimatorSet
 import android.animation.ObjectAnimator
 
 
-
+/**
+ * @author Sam Thibodeau
+ * @date 2019-03-11
+ * @description Asn 2
+ */
 class MainActivity : AppCompatActivity() {
     var rps = Rochambo()
     override fun onCreate(savedInstanceState: Bundle?) {
